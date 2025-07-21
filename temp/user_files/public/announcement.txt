@@ -1,0 +1,3 @@
+PUBLIC ANNOUNCEMENT
+This file should be readable by everyone.
+Contains general information about the website.

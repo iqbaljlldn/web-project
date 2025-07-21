@@ -1,0 +1,8 @@
+Jul 19 10:15:23 webserver systemd[1]: Started nginx.service
+Jul 19 10:16:45 webserver kernel: [12345.678] Out of memory: Kill process 1234 (php-fpm) score 856
+Jul 19 10:17:12 webserver systemd[1]: mysql.service: Main process exited, code=killed, status=9/KILL
+Jul 19 10:18:33 webserver systemd[1]: Started mysql.service
+Jul 19 10:19:44 webserver kernel: [12346.789] TCP: request_sock_TCP: Possible SYN flooding
+Jul 19 10:20:15 webserver systemd[1]: Stopping nginx.service
+Jul 19 10:21:22 webserver systemd[1]: Started nginx.service
+Jul 19 10:22:33 webserver kernel: [12347.890] EXT4-fs warning: mounting fs with errors

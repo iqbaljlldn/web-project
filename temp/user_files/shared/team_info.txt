@@ -1,0 +1,3 @@
+TEAM SHARED DOCUMENT
+This file should be readable by team members only.
+Contains project information and team coordination data.

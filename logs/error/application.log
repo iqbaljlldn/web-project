@@ -1,0 +1,10 @@
+[2025-07-19 10:15:23] ERROR Database connection failed: Connection timeout after 30 seconds
+[2025-07-19 10:16:45] WARN Cache miss for key: user_session_abc123
+[2025-07-19 10:17:12] ERROR Authentication failed for user: admin@example.com
+[2025-07-19 10:18:33] INFO User login successful: user1@domain.com
+[2025-07-19 10:19:44] ERROR 404 Not Found: /services.html requested by 10.0.0.50
+[2025-07-19 10:20:15] DEBUG Processing payment for order #12345
+[2025-07-19 10:21:22] ERROR Internal server error in contact form submission
+[2025-07-19 10:22:33] WARN High memory usage detected: 85% of available RAM
+[2025-07-19 10:23:44] INFO Background job completed: email_notifications_batch_001
+[2025-07-19 10:24:55] ERROR Failed to send email to user@example.com: SMTP timeout

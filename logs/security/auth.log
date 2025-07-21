@@ -1,0 +1,7 @@
+Jul 19 10:15:23 webserver sshd[1234]: Accepted publickey for admin from 192.168.1.50 port 22
+Jul 19 10:16:45 webserver sshd[1235]: Failed password for root from 203.0.113.1 port 22
+Jul 19 10:17:12 webserver sshd[1236]: Failed password for root from 203.0.113.1 port 22
+Jul 19 10:18:33 webserver sshd[1237]: Failed password for root from 203.0.113.1 port 22
+Jul 19 10:19:44 webserver sshd[1238]: Connection closed by 203.0.113.1 port 22
+Jul 19 10:20:15 webserver sudo: admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/systemctl restart nginx
+Jul 19 10:21:22 webserver sudo: admin : TTY=pts/0 ; PWD=/var/log ; USER=root ; COMMAND=/bin/tail -f /var/log/nginx/error.log

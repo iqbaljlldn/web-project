@@ -1,0 +1,11 @@
+product_id,name,category,price,stock,status,supplier
+P001,Laptop Gaming,Electronics,15000000,25,available,Tech Supply Co
+P002,Mouse Wireless,Electronics,250000,150,available,Office Solutions
+P003,Keyboard Mechanical,Electronics,800000,75,available,Tech Supply Co
+P004,Monitor 24 inch,Electronics,2500000,40,available,Display Corp
+P005,Webcam HD,Electronics,300000,80,low_stock,Video Tech
+P006,Headset Gaming,Electronics,450000,60,available,Audio Plus
+P007,Printer Laser,Electronics,1200000,15,available,Print Solutions
+P008,Scanner Document,Electronics,800000,20,available,Office Solutions
+P009,Hard Drive External,Electronics,650000,35,available,Storage Inc
+P010,RAM 16GB,Electronics,1000000,45,available,Memory World

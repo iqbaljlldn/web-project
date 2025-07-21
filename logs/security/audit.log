@@ -1,0 +1,6 @@
+[2025-07-19 10:00:00] AUDIT: Admin user logged in from 192.168.1.5
+[2025-07-19 10:05:00] AUDIT: File /etc/passwd accessed by user: admin
+[2025-07-19 10:10:00] AUDIT: SSH key added for user: developer
+[2025-07-19 10:15:00] AUDIT: Database backup initiated by: backup_user
+[2025-07-19 10:20:00] AUDIT: Configuration file modified: /etc/apache2/apache2.conf
+[2025-07-19 10:25:00] AUDIT: User permissions changed for: test_user

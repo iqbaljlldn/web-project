@@ -1,0 +1,8 @@
+192.168.1.100 - - [19/Jul/2025:10:15:23 +0700] "GET /index.html HTTP/1.1" 200 2435 "-" "Mozilla/5.0 (Ubuntu; Linux x86_64)"
+192.168.1.101 - - [19/Jul/2025:10:16:45 +0700] "GET /css/main.css HTTP/1.1" 200 1024 "http://localhost/index.html" "Mozilla/5.0"
+192.168.1.102 - admin [19/Jul/2025:10:17:12 +0700] "POST /login HTTP/1.1" 401 512 "-" "curl/7.68.0"
+192.168.1.100 - - [19/Jul/2025:10:18:33 +0700] "GET /about.html HTTP/1.1" 200 1854 "http://localhost/index.html" "Mozilla/5.0"
+10.0.0.50 - - [19/Jul/2025:10:19:44 +0700] "GET /services.html HTTP/1.1" 404 256 "-" "Mozilla/5.0 (Windows NT 10.0)"
+192.168.1.103 - user1 [19/Jul/2025:10:20:15 +0700] "GET /dashboard HTTP/1.1" 200 3421 "-" "Mozilla/5.0 (Macintosh; Intel)"
+192.168.1.100 - - [19/Jul/2025:10:21:22 +0700] "POST /contact HTTP/1.1" 500 0 "http://localhost/contact.html" "Mozilla/5.0"
+192.168.1.104 - - [19/Jul/2025:10:22:33 +0700] "GET /js/main.js HTTP/1.1" 200 2048 "http://localhost/index.html" "Mozilla/5.0"
